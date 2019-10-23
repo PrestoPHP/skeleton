@@ -1,0 +1,12 @@
+{
+  "name": "prestophp/prestophp-skeleton",
+  "require": {
+    "monolog/monolog": "^1.23",
+    "prestophp/framework": "^2.3@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "MyApp\\": "src/"
+    }
+  }
+}
