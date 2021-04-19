@@ -1,8 +1,9 @@
 {
   "name": "prestophp/prestophp-skeleton",
+  "description": "prestoPHP Framework skeleton application",
   "require": {
     "monolog/monolog": "^1.23",
-    "prestophp/framework": "^2.3@dev"
+    "prestophp/framework": "^0.0.4"
   },
   "autoload": {
     "psr-4": {
